@@ -1,2 +1,2 @@
-# HTML
-HTML code
+# Python code
+Python code
